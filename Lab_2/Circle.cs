@@ -2,13 +2,11 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
-using System.Threading.Tasks;
 
 namespace Lab_2
 {
-    class Circle : Figures, IPrint//наследуется от абстрактного класса Figures и реализует интерфес IPtint
+    class Circle : Figures, IPrint
     {
-        const double PI = 3.1415;//число Пи, для нахождения площади круга
         double radius;//радиус фигуры
         public Circle(double rad)//конструктор
         {
@@ -21,7 +19,7 @@ namespace Lab_2
         }
         public override string ToString()//переопределение виртуального метода вывода данных об объекте
         {
-            return "Круг площадью " + this.Area().ToString();
+            return "Окружность площадью " + this.Area().ToString();
         }
         public void Print()//вывод данных об объекте
         {
@@ -29,4 +27,3 @@ namespace Lab_2
         }
     }
 }
-

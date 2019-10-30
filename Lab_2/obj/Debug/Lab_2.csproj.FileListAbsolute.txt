@@ -12,3 +12,10 @@ C:\Git\Lab2\Lab_2\obj\Debug\Lab_2.csprojAssemblyReference.cache
 C:\Git\Lab2\Lab_2\obj\Debug\Lab_2.csproj.CoreCompileInputs.cache
 C:\Git\Lab2\Lab_2\obj\Debug\Lab_2.exe
 C:\Git\Lab2\Lab_2\obj\Debug\Lab_2.pdb
+C:\Git\testtt\Lab_2\bin\Debug\Lab_2.exe.config
+C:\Git\testtt\Lab_2\bin\Debug\Lab_2.exe
+C:\Git\testtt\Lab_2\bin\Debug\Lab_2.pdb
+C:\Git\testtt\Lab_2\obj\Debug\Lab_2.csprojAssemblyReference.cache
+C:\Git\testtt\Lab_2\obj\Debug\Lab_2.csproj.CoreCompileInputs.cache
+C:\Git\testtt\Lab_2\obj\Debug\Lab_2.exe
+C:\Git\testtt\Lab_2\obj\Debug\Lab_2.pdb
