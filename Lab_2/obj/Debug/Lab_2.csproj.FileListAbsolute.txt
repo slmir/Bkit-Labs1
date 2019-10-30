@@ -5,3 +5,10 @@ C:\Users\Student\BKIT1\Lab\Lab_2\obj\Debug\Lab_2.csprojAssemblyReference.cache
 C:\Users\Student\BKIT1\Lab\Lab_2\obj\Debug\Lab_2.csproj.CoreCompileInputs.cache
 C:\Users\Student\BKIT1\Lab\Lab_2\obj\Debug\Lab_2.exe
 C:\Users\Student\BKIT1\Lab\Lab_2\obj\Debug\Lab_2.pdb
+C:\Git\Lab2\Lab_2\bin\Debug\Lab_2.exe.config
+C:\Git\Lab2\Lab_2\bin\Debug\Lab_2.exe
+C:\Git\Lab2\Lab_2\bin\Debug\Lab_2.pdb
+C:\Git\Lab2\Lab_2\obj\Debug\Lab_2.csprojAssemblyReference.cache
+C:\Git\Lab2\Lab_2\obj\Debug\Lab_2.csproj.CoreCompileInputs.cache
+C:\Git\Lab2\Lab_2\obj\Debug\Lab_2.exe
+C:\Git\Lab2\Lab_2\obj\Debug\Lab_2.pdb
